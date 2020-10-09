@@ -1,0 +1,4 @@
+@font-face {
+    font-family: "Britanic";
+    src: url("../fonts/Britanic-Bold.woff") format(woff),url("../fonts/Britanic-Bold.TTF") format(truetype);
+}
